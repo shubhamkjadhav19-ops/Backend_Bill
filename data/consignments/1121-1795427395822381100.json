@@ -1,0 +1,60 @@
+{
+    "id": "1121-1795427395822381100",
+    "transporter": {
+        "name": "JAY SPEED CARGO",
+        "address": "Aqua Mist Society, 605, Shinde Wasti, Ravet, Pune - 412101",
+        "email": "jayspeedcargo7@gmail.com",
+        "phone": "9766830931",
+        "alternatePhone": "9607920511",
+        "enrollmentNumber": "27APFPD0968J1ZS",
+        "jurisdiction": "Pimpri"
+    },
+    "consignmentNumber": "1121",
+    "date": "2026-11-23",
+    "copyType": "Consignor copy",
+    "insuranceStatus": "not_insured",
+    "insuranceCompany": "",
+    "insurancePolicyNumber": "",
+    "insuranceDate": "",
+    "insuranceAmount": "",
+    "consignor": {
+        "name": "SBBB",
+        "address": "",
+        "gstNumber": ""
+    },
+    "consignee": {
+        "name": "sss",
+        "address": "",
+        "gstNumber": ""
+    },
+    "gstPayableBy": "Consignor",
+    "vehicleNumber": "",
+    "origin": "pune",
+    "destination": "pune",
+    "eWayBillNumber": "",
+    "items": [
+        {
+            "quantity": "",
+            "description": "",
+            "weight": "",
+            "rate": "",
+            "amount": "",
+            "payment": "",
+            "invoiceNumber": ""
+        }
+    ],
+    "charges": {
+        "rto": "",
+        "additionalOtherCharges": "",
+        "hamali": "",
+        "other": "",
+        "door": "",
+        "station": ""
+    },
+    "total": "",
+    "declaredValue": "",
+    "vehicleType": "",
+    "receiverName": "",
+    "notes": "",
+    "createdAt": "2026-11-23T09:49:55.8223811Z"
+}
